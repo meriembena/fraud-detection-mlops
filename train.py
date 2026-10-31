@@ -1,0 +1,1 @@
+print('entrainement du modele')
